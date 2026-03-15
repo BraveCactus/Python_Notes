@@ -75,7 +75,21 @@ compile_commands.json
 # QtCreator local machine specific files for imported projects
 *creator.user*
 
+# Text files
+# *.txt
+
+#Presentations
 *.pptx
+
+# Images
+*.jpg
+
+# Video
+*.mp4
+
+# Database
+*.db
 
 # Folders
 .vscode
+__pycache__
